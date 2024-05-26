@@ -50,7 +50,7 @@ List of platforms where projects can be dropped
 - [AOI](https://www.youtube.com/@artoninternet)
 - [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
-- [Waiting to Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
+- [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
 
 ### Newsletters
 
