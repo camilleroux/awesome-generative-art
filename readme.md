@@ -25,6 +25,7 @@ List of platforms where projects can be dropped
 - [BrightMoments](https://www.brightmoments.io/) - Closed generative Art platform on Ethereum, Base and, Tezos.
 - [gm.scribe](https://www.gmscribe.art/) - Generative Art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative Art platform on Ethereum.
+- [Fxhash](https://www.fxhash.xyz/) - Generative Art platform on Tezos.
 - [Highlight](https://highlight.xyz/) - Generative Art platform on Base.
 - [Plottables](https://plottables.io/) - Generative Art platform on Ethereum .
 - [Prohibition](https://prohibition.art/) - Generative Art platform on Base.
@@ -33,6 +34,7 @@ List of platforms where projects can be dropped
 
 ## Frameworks • Libraries
 
+- [lygia](https://www.lygia.xyz/) - Shader library of reusable functions.
 - [p5.js](https://p5js.org/)
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
