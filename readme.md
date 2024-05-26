@@ -1,4 +1,4 @@
-# Awesome Generative Art[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Generative Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Carefully curated list of awesome resources to create, learn and, drop generative art
 
