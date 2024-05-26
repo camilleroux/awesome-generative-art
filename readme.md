@@ -54,11 +54,11 @@ List of platforms where projects can be dropped
 
 ### Newsletters
 
+- [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
 - [Kaloh's Newsletter](https://kaloh.xyz/)
 
 ## Related
 
--[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 
 ## Contribute
