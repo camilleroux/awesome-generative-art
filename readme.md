@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome resources to create, learn and, drop generative art
 
-> Awesome Generative Art is a repository specifically dedicated to creating, learning and dropping generative art, as well as providing links that help you engage with the community! Below you&#39;ll find curated lists of tutorials, frameworks, libraries, and platforms to get you started and to advance your skills.
+Awesome Generative Art is a repository specifically dedicated to creating, learning and dropping generative art, as well as providing links that help you engage with the community! Below you&#39;ll find curated lists of tutorials, frameworks, libraries, and platforms to get you started and to advance your skills.
 
 ## Contents
 
