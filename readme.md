@@ -1,6 +1,6 @@
 # Awesome Generative Art[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Carefully curated list of awesome resources to create, learning and, drop generative art
+> Carefully curated list of awesome resources to create, learn and, drop generative art
 
 > Awesome Generative Art is a repository specifically dedicated to creating, learning and dropping generative art, as well as providing links that help you engage with the community! Below you&#39;ll find curated lists of tutorials, frameworks, libraries, and platforms to get you started and to advance your skills.
 
@@ -53,11 +53,12 @@ List of platforms where projects can be dropped
 
 ### Newsletters
 
-- [https://kaloh.xyz/](https://kaloh.xyz/)
+- [Kaloh's Newsletter](https://kaloh.xyz/)
 
 ## Related
 
 -[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 
 ## Contribute
 
