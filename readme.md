@@ -12,6 +12,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
   - [Hubs](#hubs)
   - [Podcasts](#podcasts)
   - [Newsletters](#newsletters)
+  - [Tutorials](#tutorials)
 - [Related](#related)
 - [Contribute](#contribute)
 
@@ -59,6 +60,11 @@ List of platforms where projects can be dropped
 
 - [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
 - [Kaloh's Newsletter](https://kaloh.xyz/)
+
+### Tutorials
+
+- [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 
 ## Related
 
