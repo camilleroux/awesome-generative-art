@@ -13,6 +13,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
   - [Podcasts](#podcasts)
   - [Newsletters](#newsletters)
   - [Tutorials](#tutorials)
+  - [Tools](#tools)
 - [Related](#related)
 - [Contribute](#contribute)
 
@@ -23,12 +24,12 @@ List of platforms where projects can be dropped
 - [256art](https://256art.com/) - Generative art platform on Ethereum.
 - [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
 - [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
-- [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and, Tezos.
+- [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
 - [Code Canvas](https://codecanvas.art/) - Generative art platform on Solana.
 - [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
-- [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos.
-- [Highlight](https://highlight.xyz/) - Generative art platform on Base.
+- [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos, Ethereum and Base.
+- [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
 - [New Frontier.art](https://newfrontier.art/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
@@ -44,6 +45,9 @@ List of platforms where projects can be dropped
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
+- [D3.js](https://d3js.org/) - Originally designed for data visualization.
+- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
+- [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
 
 
 ## Community
@@ -60,6 +64,7 @@ List of platforms where projects can be dropped
 - [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
 - [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
+- [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL)
 
 ### Newsletters
 
@@ -72,7 +77,12 @@ List of platforms where projects can be dropped
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
+- [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 
+### Tools
+
+- [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
+  
 ## Related
 
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
@@ -80,3 +90,4 @@ List of platforms where projects can be dropped
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
