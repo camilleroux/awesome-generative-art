@@ -28,7 +28,7 @@ List of platforms where projects can be dropped
 - [gm.studio](https://www.gmstudio.art/) - Generative Art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative Art platform on Tezos.
 - [Highlight](https://highlight.xyz/) - Generative Art platform on Base.
-- [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits
+- [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
 - [Plottables](https://plottables.io/) - Generative Art platform on Ethereum.
 - [Prohibition](https://prohibition.art/) - Generative Art platform on Base.
 - [Verse](https://verse.works/released) - Generative Art platform on Ethereum.
