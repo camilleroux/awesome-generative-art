@@ -24,11 +24,13 @@ List of platforms where projects can be dropped
 - [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
 - [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and, Tezos.
+- [Code Canvas](https://codecanvas.art) – Generative art platform on Solana.
 - [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos.
 - [Highlight](https://highlight.xyz/) - Generative art platform on Base.
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
+- [New Frontier.art] (https://newfrontier.art) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
 - [Prohibition](https://prohibition.art/) - Generative art platform on Base.
 - [Verse](https://verse.works/released) - Generative art platform on Ethereum.
