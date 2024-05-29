@@ -38,6 +38,7 @@ List of platforms where projects can be dropped
 - [p5.js](https://p5js.org/)
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
+- [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js
 
 ## Community
 
