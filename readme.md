@@ -20,27 +20,28 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 
 List of platforms where projects can be dropped
 
-- [256art](https://256art.com/) - Generative Art platform on Ethereum.
-- [Alba](https://www.alba.art/) - Generative Art platform on Ethereum.
-- [ArtBlocks](https://www.artblocks.io/) - Generative Art platform on Ethereum.
-- [BrightMoments](https://www.brightmoments.io/) - Closed generative Art platform on Ethereum, Base and, Tezos.
-- [gm.scribe](https://www.gmscribe.art/) - Generative Art platform on Bitcoin.
-- [gm.studio](https://www.gmstudio.art/) - Generative Art platform on Ethereum.
-- [Fxhash](https://www.fxhash.xyz/) - Generative Art platform on Tezos.
-- [Highlight](https://highlight.xyz/) - Generative Art platform on Base.
+- [256art](https://256art.com/) - Generative art platform on Ethereum.
+- [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
+- [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
+- [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and, Tezos.
+- [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
+- [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
+- [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos.
+- [Highlight](https://highlight.xyz/) - Generative art platform on Base.
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
-- [Plottables](https://plottables.io/) - Generative Art platform on Ethereum.
-- [Prohibition](https://prohibition.art/) - Generative Art platform on Base.
-- [Verse](https://verse.works/released) - Generative Art platform on Ethereum.
-- [Vivid](https://www.vivid.gallery/) - Generative Art platform on Bitcoin.
+- [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
+- [Prohibition](https://prohibition.art/) - Generative art platform on Base.
+- [Verse](https://verse.works/released) - Generative art platform on Ethereum.
+- [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
 
 ## Frameworks • Libraries
 
 - [lygia](https://www.lygia.xyz/) - Shader library of reusable functions.
 - [p5.js](https://p5js.org/)
+- [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
-- [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
+
 
 ## Community
 
