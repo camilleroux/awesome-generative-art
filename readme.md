@@ -33,6 +33,8 @@ List of platforms where projects can be dropped
 - [Prohibition](https://prohibition.art/) - Generative art platform on Base.
 - [Verse](https://verse.works/released) - Generative art platform on Ethereum.
 - [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
+- [Code Canvas] (https://codecanvas.art/) – Generative art platform on Solana.
+- [New Frontier.art] (https://newfrontier.art/) - Generative art platform on Solana.
 
 ## Frameworks • Libraries
 
