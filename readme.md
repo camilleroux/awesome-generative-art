@@ -28,6 +28,7 @@ List of platforms where projects can be dropped
 - [gm.studio](https://www.gmstudio.art/) - Generative Art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative Art platform on Tezos.
 - [Highlight](https://highlight.xyz/) - Generative Art platform on Base.
+- [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits
 - [Plottables](https://plottables.io/) - Generative Art platform on Ethereum.
 - [Prohibition](https://prohibition.art/) - Generative Art platform on Base.
 - [Verse](https://verse.works/released) - Generative Art platform on Ethereum.
@@ -60,11 +61,13 @@ List of platforms where projects can be dropped
 
 - [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
 - [Kaloh's Newsletter](https://kaloh.xyz/)
+- [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
 
 ### Tutorials
 
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
+- [Creative coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 
 ## Related
 
