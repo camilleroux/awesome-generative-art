@@ -44,8 +44,8 @@ List of platforms where projects can be dropped
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
-- [D3.js](https://d3js.org/) - Originally designed for data visualization
-- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting
+- [D3.js](https://d3js.org/) - Originally designed for data visualization.
+- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
 - [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
 
 
@@ -80,7 +80,7 @@ List of platforms where projects can be dropped
 
 ### Tools
 
-- [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas
+- [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
   
 ## Related
 
