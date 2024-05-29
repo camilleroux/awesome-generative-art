@@ -13,6 +13,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
   - [Podcasts](#podcasts)
   - [Newsletters](#newsletters)
   - [Tutorials](#tutorials)
+  - [Tools](#tools)
 - [Related](#related)
 - [Contribute](#contribute)
 
