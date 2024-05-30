@@ -39,32 +39,31 @@ List of platforms where projects can be dropped
 
 ## Frameworks • Libraries
 
+- [D3.js](https://d3js.org/) - Originally designed for data visualization.
 - [lygia](https://www.lygia.xyz/) - Shader library of reusable functions.
 - [p5.js](https://p5js.org/)
 - [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
+- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
+- [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
-- [D3.js](https://d3js.org/) - Originally designed for data visualization.
-- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
-- [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
-
 
 ## Community
 
 ### Hubs
 
-- [Generative Artist Club](https://www.genartclub.com/)
 - [Farcaster](https://warpcast.com/~/channel/gen-art)
+- [Generative Artist Club](https://www.genartclub.com/)
 - [Reddit](https://www.reddit.com/r/generative/)
 
 ### Podcasts
 
 - [AOI](https://www.youtube.com/@artoninternet)
-- [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
-- [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
-- [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
 - [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL)
+- [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
+- [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
+- [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
 
 ### Newsletters
 
@@ -76,13 +75,13 @@ List of platforms where projects can be dropped
 
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
-- [Creative coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
+- [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 
 ### Tools
 
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
-  
+
 ## Related
 
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
@@ -90,4 +89,3 @@ List of platforms where projects can be dropped
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
