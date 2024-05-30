@@ -8,7 +8,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 
 - [Platforms](#platforms)
 - [Frameworks • Libraries](#frameworks--libraries)
-- [Tutorials](#tutorials)
+- [Articles • Tutorials](#articles--tutorials)
 - [Tools](#tools)
 - [Community](#community)
   - [Hubs](#hubs)
@@ -49,15 +49,17 @@ List of platforms where projects can be dropped
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
 
-## Tutorials
+## Articles • Tutorials
 
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
+- [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 
 ## Tools
 
+- [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 
 ## Community
