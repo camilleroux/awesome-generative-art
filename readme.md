@@ -86,6 +86,11 @@ List of platforms where projects can be dropped
 - [Kaloh's Newsletter](https://kaloh.xyz/)
 - [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
 
+## Galleries
+- [DECA](https://deca.art)
+- [Gallery](https://gallery.so/)
+- [Oncyber](https://oncyber.io/)
+
 ## Related
 
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
