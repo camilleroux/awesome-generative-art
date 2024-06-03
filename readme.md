@@ -14,6 +14,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
   - [Hubs](#hubs)
   - [Podcasts](#podcasts)
   - [Newsletters](#newsletters)
+- [Galleries](#galleries)
 - [Related](#related)
 - [Contribute](#contribute)
 
@@ -87,6 +88,7 @@ List of platforms where projects can be dropped
 - [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
 
 ## Galleries
+
 - [DECA](https://deca.art)
 - [Gallery](https://gallery.so/)
 - [Oncyber](https://oncyber.io/)
