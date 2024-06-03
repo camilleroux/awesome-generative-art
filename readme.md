@@ -69,7 +69,7 @@ List of platforms where projects can be dropped
 - [Openprocessing](https://openprocessing.org/) - Simple online tool for creating P5.js sketches.
 - [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
-- [Dittytoy](https://dittytoy.net) - Create generative music online using a Javascript API.
+- [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 
 ## Community
 
