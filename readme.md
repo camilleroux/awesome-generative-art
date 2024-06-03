@@ -66,6 +66,8 @@ List of platforms where projects can be dropped
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Easing Functions](https://easings.net/#) - Easy way to get easing math functions.
+- [Openprocessing](https://openprocessing.org/) - Simple online tool for creating P5.js sketches.
+- [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
 
 ## Community
 
