@@ -54,7 +54,7 @@ List of platforms where projects can be dropped
 
 ## Articles • Tutorials
 
-- [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial on how to create generative handwriting fonts.
+- [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - Article/tutorial on how to create generative handwriting fonts.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 - [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
