@@ -54,18 +54,22 @@ List of platforms where projects can be dropped
 
 ## Articles • Tutorials
 
-- [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial on how to create generative handwriting fonts.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
-- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding. 
+- [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
+- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
+- [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [What is generative art? by Amy Goodchild](https://www.amygoodchild.com/blog/what-is-generative-art) - Beginner article about introduction to Generative Art.
+
 
 ## Tools
 
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
-- [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Easing Functions](https://easings.net/#) - Easy way to get easing math functions.
+- [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Openprocessing](https://openprocessing.org/) - Simple online tool for creating P5.js sketches.
 - [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
 
