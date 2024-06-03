@@ -57,6 +57,7 @@ List of platforms where projects can be dropped
 - [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding. 
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
+- [The Book of Shaders](https://thebookofshaders.com/) - Interactive (yet incomplete) book about fragment shaders by Patricio Gonzalez Vivo and Jen Lowe.  
 
 ## Tools
 
