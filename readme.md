@@ -50,6 +50,7 @@ List of platforms where projects can be dropped
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
 - [hydra](https://github.com/hydra-synth/hydra) - Video synth and coding environment inspired by analog modular synthesizers, created by Olivia Jack.
+- [bun.sh] (https://bun.sh) - Bun is an all-in-one toolkit for JavaScript and TypeScript apps 
 
 
 ## Articles • Tutorials
