@@ -10,6 +10,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 - [Frameworks • Libraries](#frameworks--libraries)
 - [Articles • Tutorials](#articles--tutorials)
 - [Tools](#tools)
+- [Code Editors](#code-editors)
 - [Community](#community)
   - [Hubs](#hubs)
   - [Podcasts](#podcasts)
@@ -66,8 +67,6 @@ List of platforms where projects can be dropped
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Easing Functions](https://easings.net/#) - Easy way to get easing math functions.
-- [Openprocessing](https://openprocessing.org/) - Simple online tool for creating P5.js sketches.
-- [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 - [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 
