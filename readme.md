@@ -27,6 +27,7 @@ List of platforms where projects can be dropped
 - [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
 - [Code Canvas](https://codecanvas.art/) - Generative art platform on Solana.
+- [Genify](https://genify.xyz/) - Generative art platform on Bitcoin, Ethereum, BNB Chain, Conflux and Lambda Network.
 - [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos, Ethereum and Base.
@@ -46,6 +47,7 @@ List of platforms where projects can be dropped
 - [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
 - [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
 - [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
+- [Spectral.js](https://github.com/rvanwijnen/spectral.js) - JavaScript library designed to deliver realistic color mixing.
 - [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
@@ -58,20 +60,27 @@ List of platforms where projects can be dropped
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 - [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
+- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
+- [How to make generative art feel natural](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural) - Language agnostic techniques to elevate the natural look & feel of generative art (by Ben Kovach).
+- [How to make your first generative art with P5.js by shvembldr](https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2) - A good starting point from a respected gen artist.
+- [Why Love Gen Art? by Artnome](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A very well written overview of what gen art is and where it came from. 
 - [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [What is generative art? by Amy Goodchild](https://www.amygoodchild.com/blog/what-is-generative-art) - Beginner article about introduction to Generative Art.
-
+- [Offscreen Canvas](https://offscreencanvas.com/) - Issues and courses about WEBGL.
 
 ## Tools
 
+- [Coolors](https://coolors.co/) - Color palette generator (free and pro versions).
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Easing Functions](https://easings.net/#) - Easy way to get easing math functions.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Openprocessing](https://openprocessing.org/) - Simple online tool for creating P5.js sketches.
 - [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
+- [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
+- [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 
 ## Community
 
