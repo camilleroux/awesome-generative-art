@@ -66,8 +66,12 @@ List of platforms where projects can be dropped
 - [Why Love Gen Art? by Artnome](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A very well written overview of what gen art is and where it came from.
 - [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [The book of Shaders](https://thebookofshaders.com/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+- [The Nature of Code](https://natureofcode.com/) - A digital book to walk you through the misteries of universal laws simulation with code.
 - [What is generative art? by Amy Goodchild](https://www.amygoodchild.com/blog/what-is-generative-art) - Beginner article about introduction to Generative Art.
 - [Offscreen Canvas](https://offscreencanvas.com/) - Issues and courses about WEBGL.
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - A set of articles that teach WebGL2 from basic principles.
+- [Creative applications.net](https://www.creativeapplications.net/) - Since 2008, CAN has been at the forefront of innovation—facilitating and driving the conversations about art, technology, society and critical making.
 
 ## Tools
 
@@ -79,6 +83,7 @@ List of platforms where projects can be dropped
 - [Shadertoy](https://www.shadertoy.com/) - Advanced tool for creating shaders.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 - [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
+- [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
 
 ## Community
 
