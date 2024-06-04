@@ -56,15 +56,19 @@ List of platforms where projects can be dropped
 
 ## Articles • Tutorials
 
-- [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - Article/tutorial on how to create generative handwriting fonts.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
+- [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
 - [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 - [How to make generative art feel natural](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural) - Language agnostic techniques to elevate the natural look & feel of generative art (by Ben Kovach).
 - [How to make your first generative art with P5.js by shvembldr](https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2) - A good starting point from a respected gen artist.
 - [Why Love Gen Art? by Artnome](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A very well written overview of what gen art is and where it came from. 
+- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
+- [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
+- [What is generative art? by Amy Goodchild](https://www.amygoodchild.com/blog/what-is-generative-art) - Beginner article about introduction to Generative Art.
 - [Offscreen Canvas](https://offscreencanvas.com/) - Issues and courses about WEBGL.
 
 ## Tools
