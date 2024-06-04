@@ -27,6 +27,7 @@ List of platforms where projects can be dropped
 - [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
 - [Code Canvas](https://codecanvas.art/) - Generative art platform on Solana.
+- [Genify](https://genify.xyz/) - Generative art platform on Bitcoin, Ethereum, BNB Chain, Conflux and Lambda Network.
 - [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos, Ethereum and Base.
@@ -57,7 +58,7 @@ List of platforms where projects can be dropped
 - [The Coding Train](https://thecodingtrain.com/) - Beginner friendly tutorials for generative art.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
-- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding. 
+- [Steve's Makerspace](https://www.youtube.com/c/StevesMakerspace) - Beginner and intermediate tutorials introducing fundamental algorithms for creative coding.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 - [Offscreen Canvas](https://offscreencanvas.com/) - Issues and courses about WEBGL.
