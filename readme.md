@@ -81,6 +81,7 @@ List of platforms where projects can be dropped
 
 ### Podcasts
 
+
 - [AOI](https://www.youtube.com/@artoninternet)
 - [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL)
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
