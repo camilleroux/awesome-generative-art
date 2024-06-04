@@ -71,6 +71,11 @@ List of platforms where projects can be dropped
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 - [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 
+## Editors
+
+- [VScode](https://vscode.dev/) - Free editor with great customization possibilities.
+- [AIjs](https://aijs.io/home) - Free online editor with AI integration.
+
 ## Community
 
 ### Hubs
