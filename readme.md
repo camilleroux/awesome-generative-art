@@ -83,6 +83,7 @@ List of platforms where projects can be dropped
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 - [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 - [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
+- [SNIPPETS FOR ART](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 
 ## Code Editors
 
