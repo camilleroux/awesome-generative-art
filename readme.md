@@ -76,6 +76,10 @@ List of platforms where projects can be dropped
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - A set of articles that teach WebGL2 from basic principles.
 - [Creative applications.net](https://www.creativeapplications.net/) - Since 2008, CAN has been at the forefront of innovation—facilitating and driving the conversations about art, technology, society and critical making.
 
+## Books
+
+- [New Media Art - Mark Tribe | Reena Jana]([https://www.researchgate.net/publication/200027430_New_Media_Art](https://archive.org/details/newmediaart0000unse/mode/2up)) [PDF](https://www.researchgate.net/publication/200027430_New_Media_Art) - This book explores the intersection of art and technology, highlighting how contemporary artists use new digital media to create innovative and interactive works
+
 ## Tools
 
 - [Coolors](https://coolors.co/) - Color palette generator (free and pro versions).
