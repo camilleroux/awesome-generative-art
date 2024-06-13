@@ -11,6 +11,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 - [Articles • Tutorials](#articles--tutorials)
 - [Tools](#tools)
 - [Code Editors](#code-editors)
+- [Hardwares](#hardwares)
 - [Community](#community)
   - [Hubs](#hubs)
   - [Podcasts](#podcasts)
@@ -94,6 +95,11 @@ List of platforms where projects can be dropped
 - [Shadertoy](https://www.shadertoy.com/) - Free online shader editor.
 - [Twigl](https://twigl.app/) - Free online shader editor.
 - [VScode](https://vscode.dev/) - Open Source editor with great customization possibilities.
+
+## Hardwares
+
+- [AxiDraw - Writing and Drawing Machines](https://www.axidraw.com/) - Awxidraw official website by Mad Evil Scientist.
+- [AxiDraw - SE/A1 - Unboxing](https://www.youtube.com/watch?v=mNFFLHsuE0s) - AxiDraw - SE/A1 unboxing video by Dan Catt.
 
 ## Community
 
