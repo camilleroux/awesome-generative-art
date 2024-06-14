@@ -36,6 +36,7 @@ List of platforms where projects can be dropped
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
 - [New Frontier.art](https://newfrontier.art/) - Generative art platform on Solana.
+- [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
 - [Prohibition](https://prohibition.art/) - Generative art platform on Base.
 - [Verse](https://verse.works/released) - Generative art platform on Ethereum.
@@ -62,6 +63,7 @@ List of platforms where projects can be dropped
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 - [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
+- [Eary compuer art from the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) - Free long article about the history of early computer art by Amy Goodchild.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
 - [How to make generative art feel natural](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural) - Language agnostic techniques to elevate the natural look & feel of generative art (by Ben Kovach).
@@ -113,12 +115,15 @@ List of platforms where projects can be dropped
 
 - [AOI](https://www.youtube.com/@artoninternet)
 - [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL)
+- [Collector's Corner](https://www.youtube.com/@collectors_xyz)
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
 - [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
 - [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
+- [SquiggleDAO](https://www.youtube.com/@squiggledao)
 
 ### Newsletters
 
+- [Collector's Corner](https://collectorscorner.substack.com/)
 - [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
 - [Kaloh's Newsletter](https://kaloh.xyz/)
 - [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
