@@ -36,7 +36,7 @@ List of platforms where projects can be dropped
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
 - [New Frontier.art](https://newfrontier.art/) - Generative art platform on Solana.
-- [Playground](https://plottables.io/) - Generative art platform on Solana.
+- [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
 - [Prohibition](https://prohibition.art/) - Generative art platform on Base.
 - [Verse](https://verse.works/released) - Generative art platform on Ethereum.
@@ -124,7 +124,7 @@ List of platforms where projects can be dropped
 ### Newsletters
 
 - [Collector's Corner](https://collectorscorner.substack.com/)
--  [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
+- [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
 - [Kaloh's Newsletter](https://kaloh.xyz/)
 - [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
 
