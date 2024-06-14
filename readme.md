@@ -9,6 +9,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 - [Platforms](#platforms)
 - [Frameworks • Libraries](#frameworks--libraries)
 - [Articles • Tutorials](#articles--tutorials)
+- [Books](#books)
 - [Tools](#tools)
 - [Code Editors](#code-editors)
 - [Hardwares](#hardwares)
@@ -78,7 +79,7 @@ List of platforms where projects can be dropped
 
 ## Books
 
-- [New Media Art - Mark Tribe | Reena Jana]([https://www.researchgate.net/publication/200027430_New_Media_Art](https://archive.org/details/newmediaart0000unse/mode/2up)) [PDF](https://www.researchgate.net/publication/200027430_New_Media_Art) - This book explores the intersection of art and technology, highlighting how contemporary artists use new digital media to create innovative and interactive works
+- [New Media Art - Mark Tribe | Reena Jana](https://archive.org/details/newmediaart0000unse/mode/2up) [PDF](https://www.researchgate.net/publication/200027430_New_Media_Art) - This book explores the intersection of art and technology, highlighting how contemporary artists use new digital media to create innovative and interactive works.
 
 ## Tools
 
