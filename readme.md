@@ -35,6 +35,7 @@ List of platforms where projects can be dropped
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Fxhash](https://www.fxhash.xyz/) - Generative art platform on Tezos, Ethereum and Base.
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
+- [Immutables](https://immutables.art/) - 100% on-chain generative art platform on Ethereum. The UX interface lives on IPFS
 - [Intrinsic.art](https://intrinsic.art/) - Generative art platform on Etherum with a focus on traits.
 - [New Frontier.art](https://newfrontier.art/) - Generative art platform on Solana.
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
