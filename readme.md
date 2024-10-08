@@ -58,6 +58,7 @@ List of platforms where projects can be dropped
 - [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
 - [hydra](https://github.com/hydra-synth/hydra) - Video synth and coding environment inspired by analog modular synthesizers, created by Olivia Jack.
 - [Q5.js](https://q5js.org/) - New implementation of the p5 API that's performance optimized and packed with additional features.
+- [ZIM.js](https://zimjs.com/) - JavaScript Framework for creative coding in HTML Canvas.
 
 ## Articles • Tutorials
 
