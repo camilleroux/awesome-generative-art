@@ -99,6 +99,7 @@ List of platforms where projects can be dropped
 ## Code Editors
 
 - [AIjs](https://aijs.io/home) - Free online editor with AI integration.
+- [Cursor](https://www.cursor.com/) - Editor with AI integration based on VSCode.
 - [Openprocessing](https://openprocessing.org/) - Free online p5 editor.
 - [p5 editor](https://editor.p5js.org/) - Free online p5 editor.
 - [Shadertoy](https://www.shadertoy.com/) - Free online shader editor.
@@ -125,6 +126,7 @@ List of platforms where projects can be dropped
 - [Collector's Corner](https://www.youtube.com/@collectors_xyz)
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
 - [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
+- [Le Random](https://www.youtube.com/@LeRandomArt)
 - [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
 - [SquiggleDAO](https://www.youtube.com/@squiggledao)
 
