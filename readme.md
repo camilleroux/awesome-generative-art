@@ -95,6 +95,7 @@ List of platforms where projects can be dropped
 - [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
 - [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
+- [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable Three.js scenes and savable presets.
 
 ## Code Editors
 
