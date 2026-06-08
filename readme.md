@@ -96,6 +96,8 @@ List of platforms where projects can be dropped
 - [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Code Editors
 
 - [AIjs](https://aijs.io/home) - Free online editor with AI integration.
