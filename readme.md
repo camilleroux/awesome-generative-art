@@ -89,7 +89,7 @@ List of platforms where projects can be dropped
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 - [Dittytoy](https://dittytoy.net/) - Create generative music online using a JavaScript API.
-- [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
+- [Gibber](https://gibber.cc/) - Live coding environment for audiovisual performance.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 
 ## Code Editors
@@ -100,7 +100,7 @@ List of platforms where projects can be dropped
 - [p5 editor](https://editor.p5js.org/) - Free online p5 editor.
 - [Shadertoy](https://www.shadertoy.com/) - Free online shader editor.
 - [Twigl](https://twigl.app/) - Free online shader editor.
-- [VScode](https://vscode.dev/) - Open source editor with great customization possibilities.
+- [VSCode](https://vscode.dev/) - Open source editor with great customization possibilities.
 
 ## Hardware
 
