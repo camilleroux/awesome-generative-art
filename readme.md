@@ -26,6 +26,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 List of platforms where projects can be dropped
 
 - [256ART](https://256.art/) - Fully on-chain generative art platform on Ethereum.
+- [8NAP ART](https://8nap.art/) - Artist-focused generative art platform on Ethereum.
 - [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
 - [Art Blocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [Bright Moments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
@@ -34,6 +35,7 @@ List of platforms where projects can be dropped
 - [gm.scribe](https://www.gmscribe.art/) - Generative art platform on Bitcoin.
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
+- [networked.art](https://networked.art/) - Non-custodial digital art platform on Ethereum, with daily auctions.
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum dedicated to pen plotter art.
 - [Prohibition](https://www.artblocks.io/partners/prohibition) - Art Blocks Engine platform for generative art on Base.
