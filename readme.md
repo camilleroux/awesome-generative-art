@@ -25,7 +25,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 
 List of platforms where projects can be dropped
 
-- [256art](https://256art.com/) - Generative art platform on Ethereum.
+- [256art](https://256.art/) - Generative art platform on Ethereum.
 - [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
 - [ArtBlocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [BrightMoments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
@@ -36,8 +36,8 @@ List of platforms where projects can be dropped
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
-- [Prohibition](https://prohibition.art/) - Generative art platform on Base.
-- [Verse](https://verse.works/released) - Generative art platform on Ethereum.
+- [Prohibition](https://www.artblocks.io/partners/prohibition) - Generative art platform on Base.
+- [Verse](https://verse.works/releases) - Generative art platform on Ethereum.
 - [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
 
 ## Frameworks • Libraries
@@ -46,12 +46,12 @@ List of platforms where projects can be dropped
 - [lygia](https://www.lygia.xyz/) - Shader library of reusable functions.
 - [p5.js](https://p5js.org/)
 - [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
-- [Paper.js](http://paperjs.org/) - Specialliced in Vector Graphics Scripting.
+- [Paper.js](https://paperjs.org/) - Specialliced in Vector Graphics Scripting.
 - [Processing](https://processing.org/) - Write generative art in Java or Python and create applications in any OS included Android.
 - [Spectral.js](https://github.com/rvanwijnen/spectral.js) - JavaScript library designed to deliver realistic color mixing.
-- [thi.ng](http://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
+- [thi.ng](https://thi.ng/) - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [three.js](https://threejs.org/) - JavaScript 3D library.
-- [T5.js](https://github.com/Tezumie/T5.js/tree/main) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
+- [T5.js](https://github.com/Tezumie/T5.js) - Lightweight and simplified 2D graphics library designed for drawing to the canvas.
 - [hydra](https://github.com/hydra-synth/hydra) - Video synth and coding environment inspired by analog modular synthesizers, created by Olivia Jack.
 - [Q5.js](https://q5js.org/) - New implementation of the p5 API that's performance optimized and packed with additional features.
 - [ZIM.js](https://zimjs.com/) - JavaScript Framework for creative coding in HTML Canvas.
@@ -59,7 +59,7 @@ List of platforms where projects can be dropped
 ## Articles • Tutorials
 
 - [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - Article/tutorial on how to create generative handwriting fonts.
-- [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://warpcast.com/sableraph).
+- [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://farcaster.xyz/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
 - [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
 - [Eary compuer art from the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) - Free long article about the history of early computer art by Amy Goodchild.
@@ -85,17 +85,17 @@ List of platforms where projects can be dropped
 
 - [Coolors](https://coolors.co/) - Color palette generator (free and pro versions).
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
-- [Easing Functions](https://easings.net/#) - Easy way to get easing math functions.
+- [Easing Functions](https://easings.net/) - Easy way to get easing math functions.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with lineal formulas.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
-- [Dittytoy](https://dittytoy.net) - Create generative music online using a JavaScript API.
+- [Dittytoy](https://dittytoy.net/) - Create generative music online using a JavaScript API.
 - [Gibber](https://gibber.cc/) - Gibber is a live coding environment for audiovisual performance.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 
 ## Code Editors
 
 - [AIjs](https://aijs.io/home) - Free online editor with AI integration.
-- [Cursor](https://www.cursor.com/) - Editor with AI integration based on VSCode.
+- [Cursor](https://cursor.com/) - Editor with AI integration based on VSCode.
 - [Openprocessing](https://openprocessing.org/) - Free online p5 editor.
 - [p5 editor](https://editor.p5js.org/) - Free online p5 editor.
 - [Shadertoy](https://www.shadertoy.com/) - Free online shader editor.
@@ -111,7 +111,7 @@ List of platforms where projects can be dropped
 
 ### Hubs
 
-- [Farcaster](https://warpcast.com/~/channel/gen-art)
+- [Farcaster](https://farcaster.xyz/~/channel/gen-art)
 - [Generative Artist Club](https://www.genartclub.com/)
 - [Reddit](https://www.reddit.com/r/generative/)
 
@@ -123,19 +123,19 @@ List of platforms where projects can be dropped
 - [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
 - [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
 - [Le Random](https://www.youtube.com/@LeRandomArt)
-- [Waiting To Be Signed](https://podcasters.spotify.com/pod/show/waitingtobesigned)
+- [Waiting To Be Signed](https://creators.spotify.com/pod/profile/waitingtobesigned/)
 - [SquiggleDAO](https://www.youtube.com/@squiggledao)
 
 ### Newsletters
 
 - [Collector's Corner](https://collectorscorner.substack.com/)
 - [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
-- [Kaloh's Newsletter](https://kaloh.xyz/)
+- [Kaloh's Newsletter](https://www.kaloh.xyz/)
 - [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
 
 ## Galleries
 
-- [DECA](https://deca.art)
+- [DECA](https://deca.art/)
 - [Gallery](https://gallery.so/)
 - [Oncyber](https://oncyber.io/)
 
