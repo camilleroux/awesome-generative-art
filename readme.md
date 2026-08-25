@@ -25,7 +25,7 @@ Awesome Generative Art is a repository specifically dedicated to creating, learn
 
 List of platforms where projects can be dropped
 
-- [256ART](https://256.art/) - Generative art platform on Ethereum.
+- [256ART](https://256.art/) - Fully on-chain generative art platform on Ethereum.
 - [Alba](https://www.alba.art/) - Generative art platform on Ethereum.
 - [Art Blocks](https://www.artblocks.io/) - Generative art platform on Ethereum.
 - [Bright Moments](https://www.brightmoments.io/) - Closed generative art platform on Ethereum, Base and Tezos.
@@ -35,8 +35,8 @@ List of platforms where projects can be dropped
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
-- [Plottables](https://plottables.io/) - Generative art platform on Ethereum.
-- [Prohibition](https://www.artblocks.io/partners/prohibition) - Generative art platform on Base.
+- [Plottables](https://plottables.io/) - Generative art platform on Ethereum dedicated to pen plotter art.
+- [Prohibition](https://www.artblocks.io/partners/prohibition) - Art Blocks Engine platform for generative art on Base.
 - [Verse](https://verse.works/releases) - Generative art platform on Ethereum.
 - [Vivid](https://www.vivid.gallery/) - Generative art platform on Bitcoin.
 
@@ -44,8 +44,8 @@ List of platforms where projects can be dropped
 
 - [D3.js](https://d3js.org/) - Originally designed for data visualization.
 - [Hydra](https://github.com/hydra-synth/hydra) - Video synth and coding environment inspired by analog modular synthesizers, created by Olivia Jack.
-- [lygia](https://www.lygia.xyz/) - Shader library of reusable functions.
-- [p5.js](https://p5js.org/)
+- [lygia](https://www.lygia.xyz/) - Shader library of reusable functions for GLSL, HLSL, WGSL, Metal and CUDA.
+- [p5.js](https://p5js.org/) - Beginner friendly JavaScript library for creative coding on the canvas.
 - [p5.js-svg](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
 - [Paper.js](https://paperjs.org/) - Specialized in vector graphics scripting.
 - [Processing](https://processing.org/) - Write generative art in Java or Python and create applications on any OS, including Android.
@@ -111,37 +111,37 @@ List of platforms where projects can be dropped
 
 ### Hubs
 
-- [Farcaster](https://farcaster.xyz/~/channel/gen-art)
-- [Generative Artists Club](https://www.genartclub.com/)
-- [Reddit](https://www.reddit.com/r/generative/)
+- [Farcaster](https://farcaster.xyz/~/channel/gen-art) - The /gen-art channel on Farcaster.
+- [Generative Artists Club](https://www.genartclub.com/) - Community of generative artists and collectors.
+- [Reddit](https://www.reddit.com/r/generative/) - The r/generative subreddit.
 
 ### Podcasts
 
-- [AOI](https://www.youtube.com/@artoninternet)
-- [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL)
-- [Collector's Corner](https://www.youtube.com/@collectors_xyz)
-- [GENART Podcast](https://art.camilleroux.com/genart-podcast/)
-- [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg)
-- [Le Random](https://www.youtube.com/@LeRandomArt)
-- [SquiggleDAO](https://www.youtube.com/@squiggledao)
-- [Waiting To Be Signed](https://creators.spotify.com/pod/profile/waitingtobesigned/)
+- [AOI](https://www.youtube.com/@artoninternet) - Art On Internet, a movement for emerging art and technology.
+- [Arbitrarily Deterministic](https://open.spotify.com/show/7oP4AzzO2TOSM6abbds6EL) - Show about the intersection between art, technology and popular culture, hosted by Kenconsumer.
+- [Collector's Corner](https://www.youtube.com/@collectors_xyz) - Interviews and coverage from the generative art collecting scene.
+- [GENART Podcast](https://art.camilleroux.com/genart-podcast/) - Artists share their perspectives on generative art through voice messages.
+- [Kaloh's Podcast](https://www.youtube.com/channel/UCRQTtg0ODLE7UGfkBUcVPwg) - Conversations with creators, founders, and movers in onchain art, tech and culture.
+- [Le Random](https://www.youtube.com/@LeRandomArt) - Digital generative art institution that contextualizes and elevates the movement.
+- [SquiggleDAO](https://www.youtube.com/@squiggledao) - Community podcast around the Chromie Squiggle collection.
+- [Waiting To Be Signed](https://creators.spotify.com/pod/profile/waitingtobesigned/) - Weekly podcast about generative art on the blockchain.
 
 ### Newsletters
 
-- [Collector's Corner](https://collectorscorner.substack.com/)
-- [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/)
-- [Kaloh's Newsletter](https://www.kaloh.xyz/)
-- [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/)
+- [Collector's Corner](https://collectorscorner.substack.com/) - Newsletter covering generative art drops and the collecting scene.
+- [Gorilla Sun](https://www.gorillasun.de/tag/newsletter/) - Weekly recap of articles, art and other interesting things from the world of generative art and creative coding.
+- [Kaloh's Newsletter](https://www.kaloh.xyz/) - Onchain markets, tech and culture.
+- [The Dan Catt Pen Plotting Newsletter](https://newsletter.revdancatt.com/) - How to run an art studio the slow way, plus pen plotting and studio diaries.
 
 ## Galleries
 
-- [Deca](https://deca.art/)
-- [Gallery](https://gallery.so/)
-- [Oncyber](https://oncyber.io/)
+- [Deca](https://deca.art/) - Platform for curating and sharing digital art galleries.
+- [Gallery](https://gallery.so/) - Show your onchain collection to the world.
+- [Oncyber](https://oncyber.io/) - Build and share 3D virtual spaces to exhibit digital art.
 
 ## Related
 
-- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative coding resources, libraries and tools.
 
 ## Contribute
 
