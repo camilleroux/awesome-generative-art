@@ -89,6 +89,7 @@ List of platforms where projects can be dropped
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Dittytoy](https://dittytoy.net/) - Create generative music online using a JavaScript API.
 - [Easing Functions](https://easings.net/) - Easy way to get easing math functions.
+- [genart](https://github.com/camilleroux/genart-skill) - Claude Code plugin for long-form generative art, with platform constraint sheets, determinism checks and batch rendering.
 - [Gibber](https://gibber.cc/) - Live coding environment for audiovisual performance.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
