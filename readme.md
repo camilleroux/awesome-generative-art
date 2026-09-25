@@ -92,6 +92,7 @@ List of platforms where projects can be dropped
 - [genart](https://github.com/camilleroux/genart-skill) - Claude Code plugin for long-form generative art, with platform constraint sheets, determinism checks and batch rendering.
 - [Gibber](https://gibber.cc/) - Live coding environment for audiovisual performance.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
+- [motion-kit](https://github.com/kiselas/every-frame-is-code) - Agent skill for Claude Code and Codex that writes deterministic Canvas, WebGL and Three.js animations and renders them to MP4 frame by frame.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 
