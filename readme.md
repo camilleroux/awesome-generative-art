@@ -95,6 +95,8 @@ List of platforms where projects can be dropped
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 
+- [Raphael](https://raphael.app) - AI image generation tool for creating visuals from text prompts.
+
 ## Code Editors
 
 - [AIjs](https://aijs.io/home) - Free online editor with AI integration.
