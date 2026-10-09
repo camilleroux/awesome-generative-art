@@ -85,6 +85,7 @@ List of platforms where projects can be dropped
 
 ## Tools
 
+- [Asciidream](https://github.com/aivrar/asciidream) - Offline Windows studio for layered ASCII and Unicode generative art, with 35+ seeded generators, per-layer animation and GIF, SVG and ANSI export.
 - [Coolors](https://coolors.co/) - Color palette generator (free and pro versions).
 - [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
 - [Dittytoy](https://dittytoy.net/) - Create generative music online using a JavaScript API.
