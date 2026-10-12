@@ -15,6 +15,7 @@ Ensure your pull request adheres to the following guidelines:
 Content guidelines:
 
 - This list aims to showcase only the **best** resources. Do not list everything.
+- Submissions should be established projects with some recognition in the generative art community, not brand-new ones. If your project is young, feel free to submit it again once it has gained traction.
 - Feel free to remove resources that are no longer relevant or up-to-date.
 - Use the following format for entries: `[name](link) - Description.`
 - Keep descriptions short and simple, but descriptive. Start the description with a capital letter and end with a full stop/period.
