@@ -36,6 +36,7 @@ List of platforms where projects can be dropped
 - [gm.studio](https://www.gmstudio.art/) - Generative art platform on Ethereum.
 - [Highlight](https://highlight.xyz/) - Generative art platform on Ethereum, Polygon, Arbitrum, Optimism, Base and Zora.
 - [networked.art](https://networked.art/) - Non-custodial digital art platform on Ethereum, with daily auctions.
+- [Novaframe](https://www.novaframe.co.uk) - Creator marketplace for generative live wallpapers, with a desktop engine for macOS and Windows.
 - [Playground](https://www.playground.ink/) - Generative art platform on Solana.
 - [Plottables](https://plottables.io/) - Generative art platform on Ethereum dedicated to pen plotter art.
 - [Prohibition](https://www.artblocks.io/partners/prohibition) - Art Blocks Engine platform for generative art on Base.
