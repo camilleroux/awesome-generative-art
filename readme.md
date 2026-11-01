@@ -60,6 +60,7 @@ List of platforms where projects can be dropped
 
 ## Articles • Tutorials
 
+- [Algorithmic Art: From Discovery to a Drop by Camille Roux](https://art.camilleroux.com/writing/algorithmic-art-from-discovery-to-a-drop/) - How a developer became an algorithmic artist, from first sketches to long-form series and a drop, told from the inside.
 - [Coding my handwriting by Amy Goodchild](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - Article/tutorial on how to create generative handwriting fonts.
 - [Creative Coding Challenges](https://www.twitch.tv/sableraph/) - Advanced creative code challenges hosted by [sableraph](https://farcaster.xyz/sableraph).
 - [Creative Coding with Patt Vira](https://www.pattvira.com/) - Beginner and intermediate tutorials for generative art with p5.js.
@@ -68,6 +69,7 @@ List of platforms where projects can be dropped
 - [Generating The Alphabet by Amy Goodchild](https://www.amygoodchild.com/blog/generating-the-alphabet) - Article/tutorial about creating generative fonts.
 - [How to make generative art feel natural](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural) - Language agnostic techniques to elevate the natural look and feel of generative art, by Ben Kovach.
 - [How to make your first generative art with P5.js by shvembldr](https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2) - A good starting point from a respected gen artist.
+- [Making Art with Code: Where to Start by Camille Roux](https://art.camilleroux.com/writing/making-art-with-code-where-to-start/) - Beginner guide to p5.js, shaders, Three.js and plotters, and where to discover and share algorithmic art.
 - [Offscreen Canvas](https://offscreencanvas.com/) - Issues and courses about WebGL.
 - [PRNG distributions](https://piterpasma.nl/articles/probability) - Interesting basic PRNG distributions.
 - [SDFs by Inigo Quilez](https://iquilezles.org/) - All you need to know about SDFs and other shader magic.
