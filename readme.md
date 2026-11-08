@@ -96,6 +96,7 @@ List of platforms where projects can be dropped
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
+- [Path-Point]( https://github.com/aleksandrpeckin262-dev/Path-Point/releases/tag/v1.0.0) - Free software for creating videos with a "Plexus" effect, written in Python and C.
 
 ## Code Editors
 
