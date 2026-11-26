@@ -79,6 +79,7 @@ List of platforms where projects can be dropped
 - [The Nature of Code](https://natureofcode.com/) - A digital book to walk you through the mysteries of universal laws simulation with code.
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - A set of articles that teach WebGL2 from basic principles.
 - [What is generative art? by Amy Goodchild](https://www.amygoodchild.com/blog/what-is-generative-art) - Beginner article about introduction to generative art.
+- [What Is Generative Art? by Camille Roux](https://art.camilleroux.com/writing/what-is-generative-art/) - Definition, examples, a short history from Vera Molnár to long form, and how it differs from generative AI.
 - [Why Love Gen Art? by Artnome](https://www.artnome.com/news/2018/8/8/why-love-generative-art) - A very well written overview of what gen art is and where it came from.
 
 ## Books
@@ -151,3 +152,5 @@ List of platforms where projects can be dropped
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Maintained by [Camille Roux](https://art.camilleroux.com/), algorithmic artist.
