@@ -96,6 +96,7 @@ List of platforms where projects can be dropped
 - [Gibber](https://gibber.cc/) - Live coding environment for audiovisual performance.
 - [Graphtoy](https://graphtoy.com/) - Great way to easily play with linear formulas.
 - [Snippets for art](https://snippets-js.vercel.app/) - A simple database interface for code snippets to use in generative art and procedural design.
+- [Still Ours?](https://github.com/still-ours/still-ours) - Open-source p5.js benchmark and deterministic headless renderer comparing 1,395 canvases across 27 language models.
 - [Turtletoy](https://turtletoy.net/) - Create generative plotter art using a minimalistic JavaScript Turtle graphics API.
 
 ## Code Editors
