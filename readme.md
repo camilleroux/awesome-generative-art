@@ -153,4 +153,4 @@ List of platforms where projects can be dropped
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-Maintained by [Camille Roux](https://art.camilleroux.com/), algorithmic artist.
+Maintained by [Camille Roux](https://art.camilleroux.com/), algorithmic artist: limited series and [signed prints](https://art.camilleroux.com/prints/).
